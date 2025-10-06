@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 <!--
 **nixzylx/nixzylx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Web Development (Laravel Framework) and UI/UX Design
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am a mezzo-soprano singer.
