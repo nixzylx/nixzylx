@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm Samantha Nicole A. Balandra
+# 👋 Nyahello! I'm Samantha Nicole A. Balandra
 
 🎓 **IT Student | Aspiring Web Developer**
  
-Currently focused on improving my skills in **Laravel**.
-
 ---
 
 ### 💡 About Me
@@ -27,7 +25,7 @@ Currently focused on improving my skills in **Laravel**.
 - 🎯 My goal: to become a **Front-end Developer or Quality Assurance Tester**
 - ⚡ Fun fact: Other than designing and coding, I am a mezzo-soprano singer.
 
----
+
 
 ### 🛠️ Tech Stack
 **Languages:**  
@@ -45,9 +43,7 @@ Currently focused on improving my skills in **Laravel**.
 ---
 
 ### 🌍 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/samnics23/) [![University Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.balandra.547031@umindanao.edu.ph)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/samnics23/)      [![University Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s.balandra.547031@umindanao.edu.ph)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)-->
----
-
-⭐ **"Code. Learn. Build. Repeat."**
+<!--⭐ **"Code. Learn. Build. Repeat."**-->
 
